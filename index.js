@@ -11,6 +11,9 @@ function deepestChild(){
   for (i=0; i<?; i++){
     document.querySelector(selector)
   }
+    for (i=0; i<?; i++){
+    document.querySelectorAll(selector)
+  }
 }
 
 
