@@ -17,7 +17,7 @@ function deepestChild(){
   
   var node = document.getElementById('#grand-node');
 
-     while(node.childNodes===true){
+     while(node.childNodes = onlyTruthy){
         
         //    return node;
         //else
