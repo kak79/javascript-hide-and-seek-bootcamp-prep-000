@@ -17,9 +17,10 @@ function deepestChild(){
   
   var node = document.getElementById('#grand-node');
 
-    for (i=0; i<?; i++){
-    document.querySelectorAll(selector)
-  }
-    
-    
+     while(node.hasChildNodes){
+        
+        //    return node;
+        //else
+            node = node.childNodes;
+     }
 }
