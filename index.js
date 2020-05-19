@@ -1,5 +1,5 @@
 getFirstSelector(selector){
-  document.all;
+  document.querySelectorAll('p');
 }
 
 
