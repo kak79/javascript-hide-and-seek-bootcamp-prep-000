@@ -15,12 +15,12 @@ function increaseRankBy(n){
 
 function deepestChild(){
   
-  var node = document.getElementById('#grand-node');
+  var parent = document.getElementById('#grand-node');
+  var child = parent.nodeChildren[0]
 
-     while(node.haschildNodes ){
+     while(child ){
         if(!node.hasChildNodes)
-        //    return node;
-        //else
-            node = node.childNodes;
+    //make the parent the child
+          //make child one level deeper child
      }
 }
