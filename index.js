@@ -33,8 +33,9 @@ function deepestChild(){
         for (let i = 0; i < c.length; i++) {
         next.push(c[i])
       }
-    }
-     
+    
+      c = next.shift()
+   }
     
   }
 }
