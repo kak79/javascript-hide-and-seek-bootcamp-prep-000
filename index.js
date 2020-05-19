@@ -2,7 +2,7 @@ getFirstSelector(selector){
   document.querySelector(selector);
 }
 
-nestedTarget() {
+nestedTarget(){
   document.querySelector('#nested .target')
 }
 
