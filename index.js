@@ -20,7 +20,7 @@ function deepestChild(){
 
      while(child ){
         if(!node.hasChildNodes)
-    //make the parent the child
+    
           //make child one level deeper child
      }
 }
