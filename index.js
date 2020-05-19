@@ -15,11 +15,15 @@ function increaseRankBy(n){
 
 function deepestChild(){
   
+  var a = [];
+  var n;
   
     for (i=0; i<n; i++){
      
      
-      if ()
+      if (){
+        
+      }
     
   }
 }
