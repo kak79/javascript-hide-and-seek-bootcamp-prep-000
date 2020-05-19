@@ -1,8 +1,8 @@
-getFirstSelector(selector){
+function getFirstSelector(selector){
   document.querySelector(selector);
 }
 
-nestedTarget(){
+function nestedTarget(){
   return document.querySelector('#nested .target')
 }
 
