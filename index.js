@@ -1,8 +1,8 @@
 getFirstSelector(selector){
-  
+  document.all;
 }
 
 
 nestedTarget() {
-  .target
+  document.target
 }
