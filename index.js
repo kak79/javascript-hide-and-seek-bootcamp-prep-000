@@ -24,4 +24,6 @@ function deepestChild(){
      child = parent.children[0];
      
      }
+     
+     return parent;
 }
