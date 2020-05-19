@@ -1,9 +1,9 @@
 getFirstSelector(selector){
-  document.querySelector(selector);
+  return document.querySelector(selector);
 }
 
 nestedTarget(){
-  document.querySelector('#nested .target')
+  return document.querySelector('#nested .target')
 }
 
 
