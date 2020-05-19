@@ -18,7 +18,14 @@ function deepestChild(){
   var a = [];
   var n;
   
-    for (i=0; i<n; i++){
+  let c = a;
+  let m = [];
+   
+   while (c || c ===0) {
+     
+   }
+  
+    for (let i=0; i<n; i++){
      
      
       if (){
