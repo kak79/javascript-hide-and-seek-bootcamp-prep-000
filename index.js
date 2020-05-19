@@ -15,28 +15,6 @@ function increaseRankBy(n){
 
 function deepestChild(){
   
-  var a = [];
-  var n;
   
-  let c = a;
-  let m = [];
-   
-   while (c || c ===0) {
-     
-    
-      if (n(c)){
-        return c
-      
-      }
-      
-      if (a.isa(c)) {
-        for (let i = 0; i < c.length; i++) {
-        next.push(c[i])
-      }
-    
-      c = next.shift()
-   }
-    
-  }
+  
 }
-
