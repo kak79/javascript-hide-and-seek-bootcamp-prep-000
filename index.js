@@ -21,7 +21,7 @@ function deepestChild(){
      while(child){                 //make the parent the child
      parent = child
      
-     child = querySelector()
+     child = parent.children[0];
      
      }
 }
