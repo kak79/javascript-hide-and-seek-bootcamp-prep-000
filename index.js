@@ -30,8 +30,11 @@ function deepestChild(){
       }
       
       if (a.isa(c)) {
-        
+        for (let i = 0; i < c.length; i++) {
+        next.push(c[i])
       }
+    }
+     
     
   }
 }
