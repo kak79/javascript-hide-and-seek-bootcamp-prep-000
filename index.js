@@ -19,8 +19,9 @@ function deepestChild(){
   var child = parent.children[0];
 
      while(child){                 //make the parent the child
+     parent = querySelector()
      
-     
+     child = querySelector()
      
      }
 }
