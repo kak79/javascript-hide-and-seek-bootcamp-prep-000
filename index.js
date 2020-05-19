@@ -18,7 +18,7 @@ function deepestChild(){
   var parent = document.getElementById('#grand-node');
   var child = parent.nodeChildren[0]
 
-     while(child ){
+     while(child ){//make the parent the child
         if(!node.hasChildNodes)
     
           //make child one level deeper child
