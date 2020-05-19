@@ -27,9 +27,11 @@ function deepestChild(){
       if (n(c)){
         return c
       
+      }
       
-      
-      
+      if (a.isa(c)) {
+        
+      }
     
   }
 }
