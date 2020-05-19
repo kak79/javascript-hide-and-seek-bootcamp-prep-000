@@ -3,6 +3,5 @@ getFirstSelector(selector){
 }
 
 
-nestedTarget() {
-  document.target
-}
+
+
